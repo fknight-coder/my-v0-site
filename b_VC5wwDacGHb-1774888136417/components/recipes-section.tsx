@@ -48,7 +48,7 @@ export function RecipesSection() {
               </span>
             </div>
             <h2 className="text-3xl sm:text-4xl lg:text-5xl font-serif font-bold text-foreground mb-4">
-              Recipes with Gheevana
+              Recipes with Ghevana
             </h2>
             <p className="text-lg text-muted-foreground leading-relaxed">
               Discover traditional recipes that celebrate the rich, nutty flavor of pure desi ghee.

@@ -151,7 +151,7 @@ export default function RecipesPage() {
               <div className="h-px w-12 bg-primary" />
             </div>
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-serif font-bold text-foreground mb-6">
-              Recipes with Gheevana
+              Recipes with Ghevana
             </h1>
             <p className="text-xl text-muted-foreground leading-relaxed">
               Discover traditional recipes that celebrate the rich, nutty flavor of pure desi ghee. 
@@ -314,7 +314,7 @@ export default function RecipesPage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="bg-primary/10 rounded-2xl p-8 lg:p-12 text-center">
             <h2 className="text-2xl sm:text-3xl font-serif font-bold text-foreground mb-4">
-              Ready to Cook with Gheevana?
+              Ready to Cook with Ghevana?
             </h2>
             <p className="text-lg text-muted-foreground mb-6 max-w-xl mx-auto">
               Get the authentic taste of tradition. Order your jar of pure desi ghee today.

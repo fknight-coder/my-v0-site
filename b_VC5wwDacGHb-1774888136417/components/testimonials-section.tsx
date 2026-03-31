@@ -10,7 +10,7 @@ const testimonials = [
     name: "Priya Sharma",
     location: "Mumbai, Maharashtra",
     rating: 5,
-    text: "The aroma of Gheevana takes me back to my grandmother's kitchen. This is exactly how ghee should taste - rich, nutty, and pure. My family won't use any other brand now.",
+    text: "The aroma of Ghevana takes me back to my grandmother's kitchen. This is exactly how ghee should taste - rich, nutty, and pure. My family won't use any other brand now.",
     highlight: "Tastes like grandmother's ghee",
   },
   {
@@ -18,7 +18,7 @@ const testimonials = [
     name: "Rajesh Patel",
     location: "Ahmedabad, Gujarat",
     rating: 5,
-    text: "As someone who grew up in a village, I can immediately tell the difference between real bilona ghee and commercial products. Gheevana is the real deal - authentic and incredibly aromatic.",
+    text: "As someone who grew up in a village, I can immediately tell the difference between real bilona ghee and commercial products. Ghevana is the real deal - authentic and incredibly aromatic.",
     highlight: "Authentic bilona quality",
   },
   {
@@ -26,7 +26,7 @@ const testimonials = [
     name: "Dr. Anjali Menon",
     location: "Bangalore, Karnataka",
     rating: 5,
-    text: "I recommend Gheevana to all my patients looking for genuine A2 ghee. The quality is consistent, and you can taste the purity in every spoonful. A trustworthy brand for health-conscious families.",
+    text: "I recommend Ghevana to all my patients looking for genuine A2 ghee. The quality is consistent, and you can taste the purity in every spoonful. A trustworthy brand for health-conscious families.",
     highlight: "Doctor recommended",
   },
   {
@@ -34,7 +34,7 @@ const testimonials = [
     name: "Sunita Agarwal",
     location: "Jaipur, Rajasthan",
     rating: 5,
-    text: "We use Gheevana for all our festivals and daily cooking. The ghee melts beautifully and adds such depth to our dishes. It's become an essential part of our kitchen.",
+    text: "We use Ghevana for all our festivals and daily cooking. The ghee melts beautifully and adds such depth to our dishes. It's become an essential part of our kitchen.",
     highlight: "Perfect for festivals",
   },
 ]
@@ -68,7 +68,7 @@ export function TestimonialsSection() {
             Loved by Families
           </h2>
           <p className="text-lg text-secondary-foreground/80 leading-relaxed">
-            Hear what our customers have to say about their Gheevana experience.
+            Hear what our customers have to say about their Ghevana experience.
           </p>
         </div>
 

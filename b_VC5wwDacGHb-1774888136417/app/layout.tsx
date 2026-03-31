@@ -16,9 +16,9 @@ const playfair = Playfair_Display({
 })
 
 export const metadata: Metadata = {
-  title: 'Gheevana | देसीपन हर बूंद में | Premium Desi Ghee',
-  description: 'Gheevana brings you the finest traditional Desi Ghee, crafted using the ancient Bilona method. Pure A2 cow milk ghee made with love and tradition.',
-  keywords: ['desi ghee', 'bilona ghee', 'A2 ghee', 'traditional ghee', 'pure ghee', 'gheevana'],
+  title: 'Ghevana | गांव की खुशबू, शुद्धता का वादा | Premium Desi Ghee',
+  description: 'Ghevana brings you the finest traditional Desi Ghee, crafted using the ancient Bilona method. Pure A2 cow milk ghee made with love and tradition.',
+  keywords: ['desi ghee', 'bilona ghee', 'A2 ghee', 'traditional ghee', 'pure ghee', 'ghevana'],
 }
 
 export default function RootLayout({

@@ -10,7 +10,7 @@ export function HeroSection() {
       <div className="absolute inset-0 z-0">
         <Image
           src="/images/hero-ghee.jpg"
-          alt="Golden desi ghee being poured"
+          alt="Traditional woman churning butter for ghee making"
           fill
           className="object-cover"
           priority
@@ -37,7 +37,7 @@ export function HeroSection() {
 
           {/* Hindi Tagline */}
           <p className="text-2xl sm:text-3xl lg:text-4xl font-serif text-secondary mb-6">
-            देसीपन हर बूंद में
+            गांव की खुशबू, शुद्धता का वादा
           </p>
 
           {/* Subtitle */}
