@@ -40,7 +40,7 @@ export function Footer() {
           <div className="flex flex-col md:flex-row items-center justify-between gap-6">
             <div className="text-center md:text-left">
               <h3 className="text-2xl font-serif font-semibold mb-2">
-                Join the Gheevana Family
+                Join the Ghevana Family
               </h3>
               <p className="text-secondary-foreground/80">
                 Get recipes, health tips, and exclusive offers delivered to your inbox.
@@ -70,10 +70,10 @@ export function Footer() {
           <div className="col-span-2 md:col-span-1">
             <Link href="/" className="flex flex-col items-start mb-4">
               <span className="text-2xl font-serif font-bold tracking-wide">
-                Gheevana
+                Ghevana
               </span>
               <span className="text-xs text-primary font-medium tracking-widest">
-                देसीपन हर बूंद में
+                गांव की खुशबू, शुद्धता का वादा
               </span>
             </Link>
             <p className="text-secondary-foreground/70 text-sm leading-relaxed mb-6">
@@ -164,7 +164,7 @@ export function Footer() {
       <div className="border-t border-secondary-foreground/20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
           <div className="flex flex-col sm:flex-row items-center justify-between gap-4 text-sm text-secondary-foreground/60">
-            <p>&copy; {new Date().getFullYear()} Gheevana. All rights reserved.</p>
+            <p>&copy; {new Date().getFullYear()} Ghevana. All rights reserved.</p>
             <div className="flex gap-6">
               <Link href="#" className="hover:text-primary transition-colors">
                 Privacy Policy

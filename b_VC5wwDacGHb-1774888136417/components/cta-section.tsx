@@ -16,7 +16,7 @@ export function CTASection() {
             <div>
               <h2 className="text-3xl sm:text-4xl lg:text-5xl font-serif font-bold text-foreground mb-4 leading-tight">
                 Experience the
-                <span className="text-primary block">Gheevana Difference</span>
+                <span className="text-primary block">Ghevana Difference</span>
               </h2>
               <p className="text-lg text-muted-foreground leading-relaxed mb-8">
                 Ready to bring the richness of traditional desi ghee to your kitchen? 
