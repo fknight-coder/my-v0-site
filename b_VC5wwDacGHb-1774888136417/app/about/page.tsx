@@ -21,7 +21,7 @@ const timeline = [
   },
   {
     year: "2015",
-    title: "Gheevana is Born",
+    title: "Ghevana is Born",
     description: "The brand was formalized to bring authentic desi ghee to urban households.",
   },
   {
@@ -100,7 +100,7 @@ export default function AboutPage() {
                 <span className="text-secondary block">Pure Tradition</span>
               </h1>
               <p className="text-xl text-primary font-serif mb-6">
-                देसीपन हर बूंद में
+                गांव की खुशबू, शुद्धता का वादा
               </p>
               <p className="text-lg text-muted-foreground leading-relaxed mb-6">
                 For over seven decades, our family has been dedicated to one simple mission: 
@@ -109,7 +109,7 @@ export default function AboutPage() {
                 remain unchanged.
               </p>
               <p className="text-lg text-muted-foreground leading-relaxed">
-                Every jar of Gheevana carries the love, care, and expertise of three generations. 
+                Every jar of Ghevana carries the love, care, and expertise of three generations. 
                 We believe that good food starts with good ingredients, and there&apos;s no 
                 substitute for pure, traditionally-made ghee.
               </p>
@@ -118,7 +118,7 @@ export default function AboutPage() {
               <div className="relative aspect-[4/5] rounded-2xl overflow-hidden">
                 <Image
                   src="/images/founder.jpg"
-                  alt="Founder of Gheevana"
+                  alt="Founder of Ghevana"
                   fill
                   className="object-cover"
                 />

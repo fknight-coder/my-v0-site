@@ -23,10 +23,10 @@ export function Header() {
           {/* Logo */}
           <Link href="/" className="flex flex-col items-start">
             <span className="text-2xl sm:text-3xl font-serif font-bold tracking-wide text-secondary">
-              Gheevana
+              Ghevana
             </span>
             <span className="text-xs text-primary font-medium tracking-widest">
-              देसीपन हर बूंद में
+              गांव की खुशबू, शुद्धता का वादा
             </span>
           </Link>
 

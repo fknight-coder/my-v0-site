@@ -37,7 +37,7 @@ export function HeroSection() {
 
           {/* Hindi Tagline */}
           <p className="text-2xl sm:text-3xl lg:text-4xl font-serif text-secondary mb-6">
-            देसीपन हर बूंद में
+            गांव की खुशबू, शुद्धता का वादा
           </p>
 
           {/* Subtitle */}

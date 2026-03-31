@@ -62,7 +62,7 @@ const stores = [
   {
     city: "Jaipur",
     locations: [
-      { name: "Gheevana Store (Flagship)", address: "MI Road" },
+      { name: "Ghevana Store (Flagship)", address: "MI Road" },
       { name: "Big Bazaar - World Trade Park", address: "Malviya Nagar" },
       { name: "Spencers - Crystal Palm", address: "Bani Park" },
     ],
@@ -71,16 +71,16 @@ const stores = [
 
 const faqs = [
   {
-    question: "How is Gheevana different from regular ghee?",
-    answer: "Gheevana is made using the traditional Bilona method from 100% A2 cow milk. Unlike commercial ghee made from cream, we churn curd to extract makkhan, then slow-simmer it to create ghee. This preserves more nutrients and gives a richer, nuttier flavor.",
+    question: "How is Ghevana different from regular ghee?",
+    answer: "Ghevana is made using the traditional Bilona method from 100% A2 cow milk. Unlike commercial ghee made from cream, we churn curd to extract makkhan, then slow-simmer it to create ghee. This preserves more nutrients and gives a richer, nuttier flavor.",
   },
   {
     question: "What is A2 milk and why is it important?",
     answer: "A2 milk comes from indigenous cow breeds that produce milk containing only the A2 beta-casein protein. Research suggests A2 milk is easier to digest and may not cause the discomfort some people experience with regular milk.",
   },
   {
-    question: "How should I store Gheevana ghee?",
-    answer: "Store in a cool, dry place away from direct sunlight. Gheevana ghee has a long shelf life of 12-18 months. Always use a clean, dry spoon to scoop ghee. Refrigeration is not necessary but won't harm the ghee.",
+    question: "How should I store Ghevana ghee?",
+    answer: "Store in a cool, dry place away from direct sunlight. Ghevana ghee has a long shelf life of 12-18 months. Always use a clean, dry spoon to scoop ghee. Refrigeration is not necessary but won't harm the ghee.",
   },
   {
     question: "Is your ghee suitable for lactose intolerant individuals?",
@@ -306,7 +306,7 @@ export default function ContactPage() {
                   Shop Online
                 </h3>
                 <p className="text-muted-foreground mb-4">
-                  Gheevana is available on all major e-commerce platforms:
+                  Ghevana is available on all major e-commerce platforms:
                 </p>
                 <div className="flex flex-wrap gap-3">
                   {onlineStores.map((store) => (
@@ -340,7 +340,7 @@ export default function ContactPage() {
               Store Locator
             </h2>
             <p className="text-lg text-muted-foreground">
-              Find Gheevana at premium grocery stores across India.
+              Find Ghevana at premium grocery stores across India.
             </p>
           </div>
 
